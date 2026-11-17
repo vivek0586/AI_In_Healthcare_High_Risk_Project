@@ -1,0 +1,158 @@
+[
+  {
+    "id": "BEN-001",
+    "url": "https://paritybench.ai/items/BEN-001",
+    "page_sha256": "7879a8c5c124d6021ed248cb0d21e0a62ecc1ba6a6169435d9115fabe0c54088",
+    "input_sha256": "18d581b4200335610e298fb1ecffc0e324ad469ff72d73d6a5721905a52d9522"
+  },
+  {
+    "id": "BEN-002",
+    "url": "https://paritybench.ai/items/BEN-002",
+    "page_sha256": "b6e3929db908ecc9236e47f0af2d0c30a774df32bc1a94500fc427f2864cb122",
+    "input_sha256": "857ec44ea6c899e88d4188f30beaae5bab0dc02d6eadbb42420ae31e2b834171"
+  },
+  {
+    "id": "BEN-003",
+    "url": "https://paritybench.ai/items/BEN-003",
+    "page_sha256": "0b08adcbf558bcdd897bfe5281396acd6e51ebb646ae8dfbe6bf651264dab0c9",
+    "input_sha256": "0d8745881ba26df670f159e443e1bcf8850beb69c8743ed0f23b53cef1bf841e"
+  },
+  {
+    "id": "BEN-004",
+    "url": "https://paritybench.ai/items/BEN-004",
+    "page_sha256": "a6db0f69f73ffeeff3f0c172d9d74d7b589bce0e8816c5a542205074868e1ab2",
+    "input_sha256": "ff9e9f73cc7be97c3101bf994cc074967156625ac2ef70e0854c9d53cf505fe8"
+  },
+  {
+    "id": "BEN-005",
+    "url": "https://paritybench.ai/items/BEN-005",
+    "page_sha256": "2049608546c0ad463fde049e9e7b19a294098a20c2c49a810895da07c9d51d44",
+    "input_sha256": "7da8b8b1cd625308026c7254b6d2fe8afc97f0d9abb9f54af8d7647a65de2d9e"
+  },
+  {
+    "id": "BEN-006",
+    "url": "https://paritybench.ai/items/BEN-006",
+    "page_sha256": "b75bbe84e70f707917286640c029ff730c62462c9e381726217130a07be01a1a",
+    "input_sha256": "0026ac670ea348fbe4ec2b917b8f9a6f298e7e4f5342efba48a91a7ca8fd1a1b"
+  },
+  {
+    "id": "BEN-007",
+    "url": "https://paritybench.ai/items/BEN-007",
+    "page_sha256": "c333c31f85e214df31630fc35dfb2d8b1b9d5d06dcc7f92809d6e2ebfbda8844",
+    "input_sha256": "8053845760278e5f2e84249e04c1f0adbbacc115543352221a26a1812d575301"
+  },
+  {
+    "id": "BEN-008",
+    "url": "https://paritybench.ai/items/BEN-008",
+    "page_sha256": "43a66680189428d574c25039944b724278809813ea1d77a8b51ec79e8b59a2a9",
+    "input_sha256": "33121bd67d01d62dc4177dfea0b03994a7b39b26f5001b1d877716b880b51713"
+  },
+  {
+    "id": "BEN-009",
+    "url": "https://paritybench.ai/items/BEN-009",
+    "page_sha256": "339793acdd59d8238eb9aabdaf1ada6f45f1fdbd370859885c6a3cd2c034a00e",
+    "input_sha256": "84bd70672ccfc78924a6c086a2879b9155c7fd1aef05bf69c560ce6623458ba7"
+  },
+  {
+    "id": "BEN-017",
+    "url": "https://paritybench.ai/items/BEN-017",
+    "page_sha256": "bc8ef697c268b30a879635ac7bd0d6b52146c292328a22c6e3fc2ec6e8a09f0d",
+    "input_sha256": "523d87c4ef8fa4f5309e71d1b382919e6f426d37aa4e3883f94b2e0b4f6f396a"
+  },
+  {
+    "id": "BEN-021",
+    "url": "https://paritybench.ai/items/BEN-021",
+    "page_sha256": "accc30123475442e2065172b4907ffd522cb0a469ff6e9bb60a02a888b80995a",
+    "input_sha256": "63a34a1680eb7c27803c7dee5ede9aab186e57c015a32835b628330f5fe54334"
+  },
+  {
+    "id": "BEN-022",
+    "url": "https://paritybench.ai/items/BEN-022",
+    "page_sha256": "16696b4bc3fa292839bff65574ae2b37029e3898f9b88a796a19de0af28fbe2f",
+    "input_sha256": "33e3ed67bb354cb24bb5738fd484816692f1721c31692c8f86855010e226a97c"
+  },
+  {
+    "id": "ADJ-017",
+    "url": "https://paritybench.ai/items/ADJ-017",
+    "page_sha256": "41df7bafb7ea546ef3678fb428cfb26d5efc4c85b31a4886351cbcebc0d263a6",
+    "input_sha256": "61ecdccdadbaff168847e2921a5feeecb2ac95e282c0b6aaa774e808a213b924"
+  },
+  {
+    "id": "ADJ-018",
+    "url": "https://paritybench.ai/items/ADJ-018",
+    "page_sha256": "ca9c46bf369fc70d0a93c21d0f6e6754640634ea3d2af0f7f806c058f526539d",
+    "input_sha256": "3d7dd15dc35b94715ccf23f1a60297bae775b9aeb8bb7491f57d714e1aa5ebc9"
+  },
+  {
+    "id": "PA-001",
+    "url": "https://paritybench.ai/items/PA-001",
+    "page_sha256": "49aa1c22fda117e530d1287f19d558dc88acc59b93e7b602ae4490b9bc7306f9",
+    "input_sha256": "5cae5027bbd242d74fd45cae1a840560bd4cbcbd48467ffbe57fd65f7eb97f99"
+  },
+  {
+    "id": "PA-002",
+    "url": "https://paritybench.ai/items/PA-002",
+    "page_sha256": "0803f11c16666c2442b63311eb1ed70d40875657f391536005a301cfd1f6f5ef",
+    "input_sha256": "ebea965daf916c2d244d3d2b9c11bd625d90fe68d4d3c12088400d1d8da282de"
+  },
+  {
+    "id": "PA-003",
+    "url": "https://paritybench.ai/items/PA-003",
+    "page_sha256": "e447a781f49035fcc127c8303d7478177cf4dbe3c36284988a6d39fd4a21250e",
+    "input_sha256": "0d265f1b774f4cacfb212786990abe53ea411c1193bc023bc71ebcbb5363361b"
+  },
+  {
+    "id": "PA-004",
+    "url": "https://paritybench.ai/items/PA-004",
+    "page_sha256": "f91b7dce1bfcb6325e1eaa932a4e7e568f1020e9fe0c62d37b9e3b1d51e7839b",
+    "input_sha256": "f65b39737c243f5fcedce9a8909ddcd6b960e60d22d7fb99e4b312f2ea56d07e"
+  },
+  {
+    "id": "PA-009",
+    "url": "https://paritybench.ai/items/PA-009",
+    "page_sha256": "926f254f65c87e4361ade1f8b7bd5cd871907eca8118dfec6723bcd9517b3635",
+    "input_sha256": "67e75bf34fdd23e59dbe5b5490ae42274e382b762ef951db423776924fab67fc"
+  },
+  {
+    "id": "PA-010",
+    "url": "https://paritybench.ai/items/PA-010",
+    "page_sha256": "9e6cc44883b7d8d535333590a56191cf0d78557af23f85a915af86c5286e44db",
+    "input_sha256": "61a0f90abdd979bad67384b3828d8aad478e9c592483b0b03704331121773e6b"
+  },
+  {
+    "id": "PA-011",
+    "url": "https://paritybench.ai/items/PA-011",
+    "page_sha256": "ecebb1256afad5793ef01a7fd3d416055c1541b953ae06f2abe0d2b6b921549e",
+    "input_sha256": "df0ba2b1ff81c045004ab29e5629ee35c7f1eb245da56141995b59017919bab6"
+  },
+  {
+    "id": "PA-012",
+    "url": "https://paritybench.ai/items/PA-012",
+    "page_sha256": "8833d3ecb742a3e9521de935a763af7dc7063e1f29fa3d97cbed0f22fa5be2f1",
+    "input_sha256": "0e89b24bc9f75307dd7b71e177b695adf373846fa992533a459c2698e34f16cb"
+  },
+  {
+    "id": "PA-019",
+    "url": "https://paritybench.ai/items/PA-019",
+    "page_sha256": "6b5881a236d1823fdde4db5043e1c4fe6a41d857c8796dcbc00167cda17ae57f",
+    "input_sha256": "7cf8e93a31f7f386b6ca373aa9f4871153c1eb47f3f74f01a28d343144decea6"
+  },
+  {
+    "id": "PA-020",
+    "url": "https://paritybench.ai/items/PA-020",
+    "page_sha256": "40f9955ba3406e29495afde6721d90d585f37b4dcf6f4bc2eec58e6fef35b8c5",
+    "input_sha256": "057c563320700ba0f3c0600047688c893a7100c4dc7b602ce607482e3ca146bd"
+  },
+  {
+    "id": "PA-021",
+    "url": "https://paritybench.ai/items/PA-021",
+    "page_sha256": "288f4b7765085063a7966747bb783fdce99e479e336b1498a617207a601a1c4f",
+    "input_sha256": "147d615272ab8ef4c892f3de205578da2818abbaebb8c39270524cda3d6eb71d"
+  },
+  {
+    "id": "PA-022",
+    "url": "https://paritybench.ai/items/PA-022",
+    "page_sha256": "e23ef7afb4329d4d1cc53900e92399bdc201aa734e21a6342e2792cf57225a37",
+    "input_sha256": "791a160bbc5673cf1bfd80675c38271ffdff42a49dc2372c6808eb55988b244e"
+  }
+]

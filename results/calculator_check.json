@@ -1,0 +1,184 @@
+{
+  "BEN-001": {
+    "source_inputs": {
+      "mode": "deductible_then_coinsurance",
+      "allowed": 940.0,
+      "deductible_credited": 0.0,
+      "oop_credited": 0.0,
+      "deductible_limit": 1500,
+      "oop_limit": 6000,
+      "copay": 0,
+      "coinsurance_percent": 20
+    },
+    "numeric_fields_match": true
+  },
+  "BEN-002": {
+    "source_inputs": {
+      "mode": "deductible_then_coinsurance",
+      "allowed": 4200.0,
+      "deductible_credited": 1120.0,
+      "oop_credited": 1120.0,
+      "deductible_limit": 1500,
+      "oop_limit": 6000,
+      "copay": 0,
+      "coinsurance_percent": 20
+    },
+    "numeric_fields_match": true
+  },
+  "BEN-003": {
+    "source_inputs": {
+      "mode": "deductible_then_coinsurance",
+      "allowed": 1450.0,
+      "deductible_credited": 1500.0,
+      "oop_credited": 1500.0,
+      "deductible_limit": 1500,
+      "oop_limit": 6000,
+      "copay": 0,
+      "coinsurance_percent": 20
+    },
+    "numeric_fields_match": true
+  },
+  "BEN-004": {
+    "source_inputs": {
+      "mode": "copay",
+      "allowed": 210.0,
+      "deductible_credited": 400.0,
+      "oop_credited": 400.0,
+      "deductible_limit": 1500,
+      "oop_limit": 6000,
+      "copay": 60,
+      "coinsurance_percent": 0
+    },
+    "numeric_fields_match": true
+  },
+  "BEN-005": {
+    "source_inputs": {
+      "mode": "no_cost",
+      "allowed": 1850.0,
+      "deductible_credited": 0.0,
+      "oop_credited": 0.0,
+      "deductible_limit": 1500,
+      "oop_limit": 6000,
+      "copay": 0,
+      "coinsurance_percent": 0
+    },
+    "numeric_fields_match": true
+  },
+  "BEN-006": {
+    "source_inputs": {
+      "mode": "deductible_then_coinsurance",
+      "allowed": 6400.0,
+      "deductible_credited": 900.0,
+      "oop_credited": 900.0,
+      "deductible_limit": 1500,
+      "oop_limit": 6000,
+      "copay": 0,
+      "coinsurance_percent": 20
+    },
+    "numeric_fields_match": true
+  },
+  "BEN-007": {
+    "source_inputs": {
+      "mode": "copay",
+      "allowed": 6400.0,
+      "deductible_credited": 900.0,
+      "oop_credited": 900.0,
+      "deductible_limit": 1500,
+      "oop_limit": 6000,
+      "copay": 400,
+      "coinsurance_percent": 0
+    },
+    "numeric_fields_match": true
+  },
+  "BEN-008": {
+    "source_inputs": {
+      "mode": "deductible_then_coinsurance",
+      "allowed": 18400.0,
+      "deductible_credited": 1500.0,
+      "oop_credited": 5400.0,
+      "deductible_limit": 1500,
+      "oop_limit": 6000,
+      "copay": 0,
+      "coinsurance_percent": 20
+    },
+    "numeric_fields_match": true
+  },
+  "BEN-009": {
+    "source_inputs": {
+      "mode": "deductible_then_coinsurance",
+      "allowed": 240.0,
+      "deductible_credited": 1500.0,
+      "oop_credited": 6000.0,
+      "deductible_limit": 1500,
+      "oop_limit": 6000,
+      "copay": 0,
+      "coinsurance_percent": 20
+    },
+    "numeric_fields_match": true
+  },
+  "BEN-017": {
+    "source_inputs": {
+      "mode": "coinsurance_only",
+      "allowed": 300.0,
+      "deductible_credited": 0.0,
+      "oop_credited": 0.0,
+      "deductible_limit": 1500,
+      "oop_limit": 6000,
+      "copay": 0,
+      "coinsurance_percent": 20
+    },
+    "numeric_fields_match": true
+  },
+  "BEN-021": {
+    "source_inputs": {
+      "mode": "copay",
+      "allowed": 260.0,
+      "deductible_credited": 1500.0,
+      "oop_credited": 5960.0,
+      "deductible_limit": 1500,
+      "oop_limit": 6000,
+      "copay": 75,
+      "coinsurance_percent": 0
+    },
+    "numeric_fields_match": true
+  },
+  "BEN-022": {
+    "source_inputs": {
+      "mode": "copay",
+      "allowed": 22.0,
+      "deductible_credited": 1500.0,
+      "oop_credited": 1500.0,
+      "deductible_limit": 1500,
+      "oop_limit": 6000,
+      "copay": 30,
+      "coinsurance_percent": 0
+    },
+    "numeric_fields_match": true
+  },
+  "ADJ-017": {
+    "source_inputs": {
+      "mode": "deductible_then_coinsurance",
+      "allowed": 940,
+      "deductible_credited": 0,
+      "oop_credited": 0,
+      "deductible_limit": 1500,
+      "oop_limit": 999999,
+      "copay": 0,
+      "coinsurance_percent": 0
+    },
+    "numeric_fields_match": true
+  },
+  "ADJ-018": {
+    "source_inputs": {
+      "mode": "no_cost",
+      "allowed": 300,
+      "deductible_credited": 200,
+      "oop_credited": 0,
+      "deductible_limit": 1500,
+      "oop_limit": 999999,
+      "copay": 0,
+      "coinsurance_percent": 0
+    },
+    "numeric_fields_match": true
+  }
+}

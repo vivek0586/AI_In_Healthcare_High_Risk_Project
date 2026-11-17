@@ -1,0 +1,48 @@
+{
+  "direct": {
+    "n": 14,
+    "valid": 14,
+    "median_seconds": 7.229000899999988,
+    "mode": 7,
+    "amount": 0,
+    "all_fields": 0,
+    "mode_and_amount": 0,
+    "right_mode_wrong_amount": 7,
+    "wrong_mode_right_amount": 0,
+    "governing_document": 2,
+    "governing_section": 1,
+    "numeric_n": 14,
+    "member_mae": 839.1428571428571
+  },
+  "hybrid": {
+    "n": 14,
+    "valid": 14,
+    "median_seconds": 9.097493999999998,
+    "mode": 7,
+    "amount": 4,
+    "all_fields": 1,
+    "mode_and_amount": 2,
+    "right_mode_wrong_amount": 5,
+    "wrong_mode_right_amount": 2,
+    "governing_document": 2,
+    "governing_section": 1,
+    "numeric_n": 14,
+    "member_mae": 634.7142857142857
+  },
+  "documentation": {
+    "n": 12,
+    "valid": 12,
+    "median_seconds": 2.6192645500000253,
+    "decision": 4,
+    "decision_and_criteria": 0,
+    "mean_criteria_f1": 0.23214285714285712,
+    "pend_n": 3,
+    "pend_correct": 1,
+    "false_pend": 3
+  },
+  "payment_pairs": {
+    "hybrid_only_amount": 4,
+    "direct_only_amount": 0,
+    "both_amount": 0
+  }
+}
